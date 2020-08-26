@@ -3,6 +3,8 @@
 ## Introduction   
 Multiple linear regression model is developed to analyse Big Mart 2013 sales data for 1559 products across 10 stores in different cities. The attributes of each product and store have been defined. The objective is to predict the sales of a product at a particular store and identify the properties of products and stores that drive the increase in sales. Assumptions of multiple linear regression analysis such as normality, linearity, heteroscedasticity and missing values are examined.     
 
+Dataset source:https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/     
+
 ## Attributes      
 Item_Identifier-Unique product ID.   
 Item_Weight-Weight of product.     
