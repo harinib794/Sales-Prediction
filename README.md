@@ -18,3 +18,4 @@ Outlet_Size-The size of the store in terms of ground area covered. Outlet_Locati
 Outlet_Type-Whether the outlet is just a grocery store or some sort of supermarket.     
 Item_Outlet_Sales-Sales of the product in the particulat store.        
 
+Refer to Bigmart-sales.md for detailed approach and analysis.
